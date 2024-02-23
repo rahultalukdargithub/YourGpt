@@ -40,7 +40,7 @@ Add your OpenAI API key in the appropriate configuration file.
 kotlin
 Copy code
 // Add your OpenAI API key here
-val apiKey = "your-api-key"
+ "your-api-key"
 Build and run the application.
 Usage
 Launch the app on your Android device or emulator.
