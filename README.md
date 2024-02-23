@@ -40,7 +40,8 @@ Add your OpenAI API key in the appropriate configuration file.
 kotlin
 Copy code
 // Add your OpenAI API key here
- "your-api-key"
+.header("Authorization", "Bearer YOUR_API_KEY")
+in bot ImageGenerater.kt and MainActivity.kt
 Build and run the application.
 Usage
 Launch the app on your Android device or emulator.
