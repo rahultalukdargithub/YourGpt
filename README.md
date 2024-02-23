@@ -16,14 +16,18 @@ OkHttp3 for making API requests
 Other relevant libraries (list them here)
 
 # Screenshots
-
-Caption for Screenshot 1
-
-
-Caption for Screenshot 2
-
-
-Caption for Screenshot 3
+<p float="left">
+  <img src="Screenshots/ss1.jpeg" alt="Screenshot 1" width="400"/>
+  <img src="Screenshots/ss2.jpeg" alt="Screenshot 2" width="400" />
+</p>
+<p float="left">
+  <img src="Screenshots/ss3.jpeg" alt="Screenshot 3" width="400"/>
+  <img src="Screenshots/ss4.jpeg" alt="Screenshot 4" width="400" />
+</p>
+<p float="left">
+  <img src="Screenshots/ss5.jpeg" alt="Screenshot 5" width="400"/>
+ 
+</p>
 
 # Getting Started
 Prerequisites
