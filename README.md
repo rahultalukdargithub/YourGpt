@@ -11,9 +11,11 @@ Easy to Use: User-friendly interface for seamless interaction.
 Technologies Used
 Language: Kotlin
 Libraries:
+
 OpenAI GPT-3.5 API for language processing
+
 OkHttp3 for making API requests
-Other relevant libraries (list them here)
+
 
 # Screenshots
 <p float="left">
